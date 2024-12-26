@@ -1,4 +1,4 @@
 # JAVA
-// Author ramesh kittur
+// Author <Ramesh Kittur>
 
 This repository contains the fundamentals and basics of JAVA 
